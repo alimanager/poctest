@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534410789048.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C25CF17B",
+    "lastKnownWriteTime" : 1534411416,
+    "last_content_update" : -2147483648,
+    "path" : "~/PocTest/tests/testthat/test-add.R",
+    "project_path" : "tests/testthat/test-add.R",
+    "properties" : {
+        "cursorPosition" : "5,29",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

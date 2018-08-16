@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534171966021.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "203142AC",
+    "lastKnownWriteTime" : 1534410263,
+    "last_content_update" : -2147483648,
+    "path" : "~/PocTest/tests/testthat/test-hello.R.R",
+    "project_path" : "tests/testthat/test-hello.R.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

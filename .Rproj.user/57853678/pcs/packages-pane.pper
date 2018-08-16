@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "D:/Users/abdelali.amghar/Documents/R/R-3.4.3/library"
+    }
+}
